@@ -7,3 +7,8 @@ Robo a tienda de Apple con mapeado
 * Mapeado de AppleShop
 * Script de robo a AppleShop
 
+*Video de prueba de atraco del script*
+
+---> https://watch.screencastify.com/v/bD93iiVv88TCymQgG6Dc <---
+
+*Video de prueba de venta del script*
