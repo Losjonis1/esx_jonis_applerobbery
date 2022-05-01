@@ -12,3 +12,5 @@ Robo a tienda de Apple con mapeado
 ---> https://watch.screencastify.com/v/bD93iiVv88TCymQgG6Dc <---
 
 *Video de prueba de venta del script*
+
+---> https://watch.screencastify.com/v/3TqR681vZ0DACAWcJyff <---
