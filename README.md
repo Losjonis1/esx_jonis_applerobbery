@@ -6,6 +6,7 @@ Robo a tienda de Apple con mapeado
 **ESTE PACK CONTIENE**
 * Mapeado de AppleShop
 * Script de robo a AppleShop
+* 2 dependencias
 
 *Video de prueba de atraco del script*
 
